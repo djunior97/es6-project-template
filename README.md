@@ -2,4 +2,4 @@
 
 - Clone the repo
 - Execute `yarn` command to install dependencies
-- Start `js coding`
+- Start `coding`
